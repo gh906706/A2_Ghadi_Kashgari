@@ -4,6 +4,8 @@ ID: b00674751
 Language used in this assignment is Java 
 
 GitHub repo: https://github.com/gh906706/CSCI3172_A2.git
+GitLab repo: https://gitlab.com/gh906706/a2_ghadi_kashgari.git
+
 
 - My bluenose permissions are not set properly, therefore I also submitted through Brightspace and GitHub if you're not able to view my assignment. 
 
